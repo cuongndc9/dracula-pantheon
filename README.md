@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # dracula-pantheon
 
 [![Hits-of-Code](https://hitsofcode.com/github/harrytran103/dracula-pantheon)](https://hitsofcode.com/view/github/harrytran103/dracula-pantheonn)
