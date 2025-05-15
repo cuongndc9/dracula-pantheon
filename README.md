@@ -22,3 +22,8 @@ sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/dracula-panthe
 ## License
 
 MIT
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Stay curious. Keep learning. Keep growing.
+🦄
+<!-- INSPIRATIONAL_QUOTE_END -->
