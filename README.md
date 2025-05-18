@@ -23,4 +23,3 @@ sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/dracula-panthe
 
 MIT
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nThe best way to predict the future is to create it.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
