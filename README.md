@@ -25,5 +25,5 @@ MIT
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 <!-- INSPIRATIONAL_QUOTE_END -->
