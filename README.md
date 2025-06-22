@@ -25,5 +25,5 @@ MIT
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
